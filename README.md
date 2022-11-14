@@ -1,6 +1,6 @@
 ## CO2 Emission Canada: Dashboard and Storytelling
 
-![CO2 Emission Analysis- Dashboard](https://user-images.githubusercontent.com/109762085/201787251-17add783-9ba7-45e1-97f7-3cb14354cc4f.jpg)
+![CO2 Emission Analysis- Dashboard](https://user-images.githubusercontent.com/109762085/201790168-b9eaa07b-f1b8-484c-849c-62d0989bf74a.png)
 
 ### Introduction
 In this project we are going to use Environment - CO2 Emission dataset to produce a Tableau dashboard. While creating the dashboard the approaches like pre-attentrive attributes, thinking like a designer etc. will be used to make our visualization more effective. We are also using brand color of the institution to make the the dashboard relevant to that company. In this case, we have representing David Suzuki Foundation and trying to convery relevent information on their behalf.
