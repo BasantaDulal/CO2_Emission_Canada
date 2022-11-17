@@ -1,5 +1,3 @@
-## CO2 Emission Canada: Dashboard and Storytelling
-
 ![CO2 Emission Analysis- Dashboard](https://user-images.githubusercontent.com/109762085/201790168-b9eaa07b-f1b8-484c-849c-62d0989bf74a.png)
 
 ### Introduction
